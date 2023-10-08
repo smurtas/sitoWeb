@@ -1,14 +1,14 @@
 body{
     background-color: blueviolet;
 }
-/* Style the navigation bar */
+/* Assegna lo stile anl navbar */
 .navbar {
     width: 100%;
-    background-color: #555;
+    background-color: #292929;
     overflow: auto;
   }
   
-  /* Navbar links */
+  /* stile dei link */
   .navbar a {
     float: left;
     text-align: center;
@@ -18,14 +18,14 @@ body{
     font-size: 17px;
   }
   
-  /* Navbar links on mouse-over */
+  /* gestiamo l'evento del mouse o */
   .navbar a:hover {
-    background-color: #000;
+    background-color: #2c8d23;
   }
   
-  /* Current/active navbar link */
+  /* Attuale/attivo link navBar */
   .active {
-    background-color: #04AA6D;
+    background-color: #1504aa;
   }
   
   /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
